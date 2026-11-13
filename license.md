@@ -321,4 +321,4 @@ not a permanent unban.
 
 ---
 
-*world-of-warcraft-anchor · Updated 2026-11-12 · Shared under the MIT License*
+*world-of-warcraft-anchor · Updated 2026-11-13 · Shared under the MIT License*
